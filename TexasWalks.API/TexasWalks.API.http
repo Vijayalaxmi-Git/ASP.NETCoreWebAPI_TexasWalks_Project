@@ -1,0 +1,6 @@
+@TexasWalks.API_HostAddress = http://localhost:5124
+
+GET {{TexasWalks.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
